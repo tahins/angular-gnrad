@@ -1,0 +1,37 @@
+{
+  "name": "angular-gnrad",
+  "version": "0.1.0",
+  "description": "Integrate your G&R advertisements in your AngularJS applications easily.",
+  "homepage": "https://github.com/tahins/angular-gnrad",
+  "main": "dist/angular-gnrad.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tahins/angular-gnrad.git"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://tahins.mit-license.org"
+    }
+  ],
+  "author": [
+    "Tahin Rahman <tahin.36@gmail.com>"
+  ],
+  "ignore": [
+    "**/.*",
+    "src",
+    "Gruntfile.js"
+  ],
+  "keywords": [
+    "AngularJS",
+    "G&R"
+  ],
+  "dependencies": {
+    "angular": ">=1.2.0"
+  },
+  "devDependencies": {
+  }
+}
