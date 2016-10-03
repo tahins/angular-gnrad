@@ -1,7 +1,6 @@
 # angular-gnrad
 
-[![npm version](https://badge.fury.io/js/angular-gnrad@2x.png)](https://badge.fury.io/js/angular-gnrad)
-[//]: # [![Bower version](https://badge.fury.io/bo/angular-gnrad.svg)](https://badge.fury.io/bo/angular-gnrad)
+[![npm version](https://badge.fury.io/js/angular-gnrad.png)](https://badge.fury.io/js/angular-gnrad)
 
 This module lets you integrate your G&R advertisements in your AngularJS applications easily.
 
