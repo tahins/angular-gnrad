@@ -23,7 +23,11 @@
   "ignore": [
     "**/.*",
     "src",
-    "Gruntfile.js"
+    "Gruntfile.js",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
   ],
   "keywords": [
     "AngularJS",
@@ -32,6 +36,9 @@
   "dependencies": {
     "angular": ">=1.2.0"
   },
-  "devDependencies": {
-  }
+  "devDependencies": {},
+  "authors": [
+    "Tahin Rahman <tahin.36@gmail.com>"
+  ],
+  "license": "MIT"
 }
